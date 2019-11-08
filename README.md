@@ -1,5 +1,5 @@
 # Gallery360_slidshow
-360 image gallery with slideshow and virtual tour with react360
+360 image gallery slideshow and virtual tour with react360
 
 # Test my project
 (you will need some minutes to load fully)
