@@ -1,5 +1,6 @@
 # Gallery360_slidshow
 360 image gallery slideshow and virtual tour with react360
+![](https://media.giphy.com/media/QU3gyv11wcG82wsPas/giphy.gif)
 
 # Test my project
 (it will take a few minutes to fully load)
