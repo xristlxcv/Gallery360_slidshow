@@ -2,7 +2,7 @@
 360 image gallery slideshow and virtual tour with react360
 
 # Test my project
-(you will need some minutes to load fully)
+(it will take a few minutes to fully load)
 
 https://infallible-brattain-d0a5f1.netlify.com/
 
